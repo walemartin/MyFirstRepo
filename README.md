@@ -1,2 +1,2 @@
 # MyFirstRepo
-learning how transact with guthub
+learning how to transact with github
